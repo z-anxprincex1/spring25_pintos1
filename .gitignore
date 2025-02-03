@@ -1,0 +1,12 @@
+*.o
+*.d
+*.out
+*.bin
+*.swp
+*.swo
+*.bak
+.vscode/
+.idea/
+*.log
+key_t1
+key_t1.pub
